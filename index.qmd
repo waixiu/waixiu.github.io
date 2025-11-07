@@ -1,0 +1,39 @@
+---
+title: Xiuhua Wang
+image: img/xiuhuawang-1-profile.png
+page-layout: full
+about:
+  template: trestles
+  image-width: 20em
+  image-shape: round
+  links:
+    - icon: book
+      text: Google Scholar
+      href: https://scholar.google.com/citations?view_op=list_works&hl=zh-TW&hl=zh-TW&user=B7WnalUAAAAJ
+    - icon: github
+      text: Github
+      href: https://github.com/waixiu
+    - icon: mailbox
+      text: Email
+      href: mailto:xiuhuawang@hust.edu.cn
+    - icon: fingerprint
+      text: ORCID
+      href: https://orcid.org/0000-0002-9223-8328
+---
+
+Hello! My name is Xiuhua Wang and currently I am an associate professor of the School of Cyber Science and Engineering, Huazhong University of Science and Technology.
+
+I received my **Ph.D. degree** from [the Department of Information Engineering](https://www.ie.cuhk.edu.hk), [**The Chinese University of Hong Kong (CUHK)**](https://www.cuhk.edu.hk) in 2020, under the supervision of [**Professor Sherman S. M. Chow**](https://staff.ie.cuhk.edu.hk/~smchow/). I obtained my **M.Sc. degree** in Computer Science from [**City University of Hong Kong**](https://www.cs.cityu.edu.hk/) in 2014.
+
+My **research interests** span the areas of **applied cryptography**, **cryptographic protocols**, **public-key cryptography**, and **privacy protection in machine learning**. My current research primarily focuses on:
+
+-   The design of post-quantum cryptography protocols;
+-   The optimization of access control encryption;
+-   Privacy preservation in distributed machine learning.
+
+My work aims to advance the theoretical foundations and practical implementations of secure cryptographic systems, with the goal of enhancing data privacy, integrity, and trust in emerging distributed and intelligent computing environments.
+
+**Opening:**
+
+1.  My lab is opening for self-motivated master or PhD students with strong interest(s) in my research areas.
+2.  If you are an HUST (undergraduate/master) student and would like to explore cyber security with me, drop me an email.

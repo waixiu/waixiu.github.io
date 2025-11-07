@@ -1,0 +1,14 @@
+---
+title: "Publications"
+author: xiuhua
+---
+
+[*Google Scholar Profile.*](https://scholar.google.com/citations?view_op=list_works&hl=zh-TW&hl=zh-TW&user=B7WnalUAAAAJ)
+
+## Academic Publications
+
+*\# Denotes equal contribution. \* Denotes the corresponding author.*
+
+\[2\] Combiners for chosen-ciphertext security. Cong Zhang, David Cash, **Xiuhua Wang**, Xiaoqi Yu, Sherman S. M. Chow. International Computing and Combinatorics Conference. 2016. pp 257-268.
+
+\[1\] Privacy preserving credit systems. Sherman S. M. Chow, Russell W. F. Lai, **Xiuhua Wang**, Yongjun Zhao. International Conference on Network and System Security. 2016. pp 184-199.

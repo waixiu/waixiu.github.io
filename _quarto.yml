@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Xiuhua Wang"
+  navbar:
+    right:
+      - href: index.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: academics.qmd
+        text: Academic Activities
+      - href: resume.qmd
+        text: Resume
+
+format:
+  html:
+    theme: cosmo dark
+    css: styles.css
+    toc: true
+
+editor: visual
+
+resources:
+  - CNAME

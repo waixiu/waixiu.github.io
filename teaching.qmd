@@ -1,0 +1,25 @@
+---
+title: "Teaching"
+editor: visual
+---
+
+### Teaching Assistant in CUHK
+
+| Code | Course Title | Time |
+|----------|-----------------------------|------------------------------|
+| SCS0121 | Modern Cryptography | 2022 Spring, 2023 Spring, 2024 Spring, 2025 Spring |
+|  | Course Design of Cryptography | 2021 Fall, 2022 Fall, 2023 Fall |
+| SCS0281 | Advanced Cryptography | 2021 Fall, 2022 Fall |
+| SCS0049 | Privacy Protection and Cryptography Applications in the Internet of Things (IoT) | 2024 Spring, 2025 Spring |
+| SCS0411 | Domestic Database Technology | 2024 Spring |
+| 920131016 | Modern Cryptography (for postgraduate students) | 2022 Fall, 2024 Fall, 2025 Fall |
+| 920131042 | Data Security and Privacy Protection (for postgraduate students) | 2023 Fall, 2024 Fall, 2025 Fall |
+
+### Lecturer in HUST
+
+| Code | Course Title | Time |
+|----------|-----------------------------|------------------------------|
+| IERG 5310 | Security and Privacy in Cyber Systems | 2019 Fall |
+| Engg 2602C | Engineering Practicum | 2017 Spring, 2019 Fall |
+| IERG 4130 | Introduction to Cyber Security | 2016 Spring, 2018 Spring |
+| IERG 3080 | Information & Software Engineering Practice | 2015 Fall, 2016 Fall, 2017 Fall, 2018 Fall |

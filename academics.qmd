@@ -1,0 +1,16 @@
+---
+title: "Academic activities"
+editor: visual
+---
+
+### Reviewer:
+
+2015 -- 2025: CRYPTO, ASIACRYPT, TDSC, T-IFS, Infocom, ESORICS, CT-RSA, ACNS, GlobeCom, AsiaCCS, SecureComm, AsiaPKC, CANS, ICPADS, ISC, ISPECS, ProvSec, ICASSP, ICICS, IWSEC, DSC, C2SI, JISA, IET Information Security, etc.
+
+### PC or TPC member:
+
+ICICS, IEEE ICC, GlobalComm, TrustCom, Ubisec, AC3, Infocom AidTSP, etc.
+
+### Session Chair:
+
+ASIACRYPT 2023, ISPA 2023.

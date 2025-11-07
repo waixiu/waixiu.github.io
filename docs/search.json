@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "academics.html",
+    "href": "academics.html",
+    "title": "Academic activities",
+    "section": "",
+    "text": "Reviewer:\n2015 – 2025: CRYPTO, ASIACRYPT, TDSC, T-IFS, Infocom, ESORICS, CT-RSA, ACNS, GlobeCom, AsiaCCS, SecureComm, AsiaPKC, CANS, ICPADS, ISC, ISPECS, ProvSec, ICASSP, ICICS, IWSEC, DSC, C2SI, JISA, IET Information Security, etc.\n\n\nPC or TPC member:\nICICS, IEEE ICC, GlobalComm, TrustCom, Ubisec, AC3, Infocom AidTSP, etc.\n\n\nSession Chair:\nASIACRYPT 2023, ISPA 2023."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Google Scholar Profile.\n\nAcademic Publications\n* Denotes the corresponding author.\n[12] Improving Byzantine-resilience in Federated Learning via Diverse Aggregation and Adaptive Variance Reduction. Xiuhua Wang, Shikang Li, Fengrui Fan, Shuai Wang, Yiwei Li, Yu Zheng. International Conference on Information and Communications Security (ICICS). 2025.\n[11] Efficient and Verifiable Multi-server Framework for Secure Information Classification and Storage. Ziqing Guo, Yaohui Wang, Xuanyu Jin, Xiuhua Wang*, Yuanyuan He, Yueyue Dai. International Conference on Information Security and Cryptology (Inscrypt). 2024. pp 191-210. [pub]\n[10] Attribute-Based Access Control Encryption. Xiuhua Wang, Mengyang Yu, Yaohui Wang, Yinjia Pi, Peng Xu, Shuai Wang, Hai Jin, Min Han. IEEE Transactions on Dependable and Secure Computing (IEEE TDSC). 2024. [pub]\n[9] Encrypted video search with single/multiple writers. Yu Zheng, Wenchao Zhang, Wei Song, Xiuhua Wang*, Chong Fu. ACM Transactions on Multimedia Computing, Communications and Applications (ACM TOMM). 2024. pp 1-23. [pub]\n[8] Differentially private and heterogeneity-robust federated learning with theoretical guarantee. Xiuhua Wang, Shuai Wang, Yiwei Li, Fengrui Fan, Shikang Li, Xiaodong Lin. IEEE Transactions on Artificial Intelligence (IEEE TAI). 2024. [pub]\n[7] Boosting semi-supervised federated learning with model personalization and client-variance-reduction. Shuai Wang, Yanqing Xu, Yanli Yuan, Xiuhua Wang, Tony Q. S. Quek. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2023. pp 1-5. Top 3% paper recognition. [pub]\n[6] Cryptography-inspired federated learning for generative adversarial networks and meta learning. Yu Zheng, Wei Song, Minxin Du, Sherman S. M. Chow, Qian Lou, Yongjun Zhao, Xiuhua Wang. International Conference on Advanced Data Mining and Applications (ADMA). 2023. pp 393-407. [pub]\n[5] Cross-domain access control encryption: arbitrary-policy, constant-size, efficient. Xiuhua Wang, Sherman S. M. Chow. IEEE Symposium on Security and Privacy (Oakland S&P). 2021. pp 388-401. [pub]\n[4] Access control encryption from group encryption. Xiuhua Wang, Harry W. H. Wong, Sherman S. M. Chow. International Conference on Applied Cryptography and Network Security (ACNS). 2021. pp 417-441. [pub]\n[3] Privacy-preserving multi-pattern matching. Tao Zhang, Xiuhua Wang, Sherman S. M. Chow. International Conference on Security and Privacy in Communication Systems (SecureComm). 2016. pp 199-218. [pub]\n[2] Combiners for chosen-ciphertext security. Cong Zhang, David Cash, Xiuhua Wang, Xiaoqi Yu, Sherman S. M. Chow. International Computing and Combinatorics Conference (COCOON). 2016. pp 257-268. [pub]\n[1] Privacy preserving credit systems. Sherman S. M. Chow, Russell W. F. Lai, Xiuhua Wang, Yongjun Zhao. International Conference on Network and System Security (NSS). 2016. pp 184-199. [pub]\n\n\nMy Ph.D. Thesis\nSecure and More Practical Access Control Encryption."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Teaching Assistant in CUHK\n\n\n\n\n\n\n\n\nCode\nCourse Title\nTime\n\n\n\n\nSCS0121\nModern Cryptography\n2022 Spring, 2023 Spring, 2024 Spring, 2025 Spring\n\n\n\nCourse Design of Cryptography\n2021 Fall, 2022 Fall, 2023 Fall\n\n\nSCS0281\nAdvanced Cryptography\n2021 Fall, 2022 Fall\n\n\nSCS0049\nPrivacy Protection and Cryptography Applications in the Internet of Things (IoT)\n2024 Spring, 2025 Spring\n\n\nSCS0411\nDomestic Database Technology\n2024 Spring\n\n\n920131016\nModern Cryptography (for postgraduate students)\n2022 Fall, 2024 Fall, 2025 Fall\n\n\n920131042\nData Security and Privacy Protection (for postgraduate students)\n2023 Fall, 2024 Fall, 2025 Fall\n\n\n\n\n\nLecturer in HUST\n\n\n\n\n\n\n\n\nCode\nCourse Title\nTime\n\n\n\n\nIERG 5310\nSecurity and Privacy in Cyber Systems\n2019 Fall\n\n\nEngg 2602C\nEngineering Practicum\n2017 Spring, 2019 Fall\n\n\nIERG 4130\nIntroduction to Cyber Security\n2016 Spring, 2018 Spring\n\n\nIERG 3080\nInformation & Software Engineering Practice\n2015 Fall, 2016 Fall, 2017 Fall, 2018 Fall"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Xiuhua Wang",
+    "section": "",
+    "text": "Hello! My name is Xiuhua Wang and currently I am an associate professor of the School of Cyber Science and Engineering, Huazhong University of Science and Technology.\nI received my Ph.D. degree from the Department of Information Engineering, The Chinese University of Hong Kong (CUHK) in 2020, under the supervision of Professor Sherman S. M. Chow. I obtained my M.Sc. degree in Computer Science from City University of Hong Kong in 2014.\nMy research interests span the areas of applied cryptography, cryptographic protocols, public-key cryptography, and privacy protection in machine learning. My current research primarily focuses on:\n\nThe design of post-quantum cryptography protocols;\nThe optimization of access control encryption;\nPrivacy preservation in distributed machine learning.\n\nMy work aims to advance the theoretical foundations and practical implementations of secure cryptographic systems, with the goal of enhancing data privacy, integrity, and trust in emerging distributed and intelligent computing environments.\nOpening:\n\nMy lab is opening for self-motivated master or PhD students with strong interest(s) in my research areas.\nIf you are an HUST (undergraduate/master) student and would like to explore cyber security with me, drop me an email."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Google Scholar Profile."
+  },
+  {
+    "objectID": "about.html#academic-publications",
+    "href": "about.html#academic-publications",
+    "title": "Publications",
+    "section": "Academic Publications",
+    "text": "Academic Publications\n# Denotes equal contribution. * Denotes the corresponding author.\n[2] Combiners for chosen-ciphertext security. Cong Zhang, David Cash, Xiuhua Wang, Xiaoqi Yu, Sherman S. M. Chow. International Computing and Combinatorics Conference. 2016. pp 257-268.\n[1] Privacy preserving credit systems. Sherman S. M. Chow, Russell W. F. Lai, Xiuhua Wang, Yongjun Zhao. International Conference on Network and System Security. 2016. pp 184-199."
+  }
+]
