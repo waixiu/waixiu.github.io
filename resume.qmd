@@ -1,5 +1,6 @@
 ---
+title: My Resume
 editor: visual
 ---
 
-\includepdf[pagecommand={}]{resume/CV_Xiuhua_Wang.pdf}
+<embed src="resume/CV_Xiuhua_Wang.pdf" type="application/pdf" width="100%" height="700px" />
